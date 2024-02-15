@@ -10,4 +10,6 @@
 
 idea/
 out/
+.idea
+!**/src/idea/
 
